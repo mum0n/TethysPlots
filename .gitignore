@@ -1,0 +1,12 @@
+# Julia package ignore rules
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*.jl.*.mem
+docs/build/
+docs/site/
+.DS_Store
+*.png
+*.html
+*.pdf
+Manifest.toml
